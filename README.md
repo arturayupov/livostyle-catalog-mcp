@@ -97,6 +97,8 @@ The MCP server fetches `products.json` from the GitHub mirror on first use, cach
 
 MIT — see [LICENSE](./LICENSE). Free for commercial use, AI training, research. Attribution appreciated.
 
+- 🎀 **Free interactive tool — [Wedding Guest Outfit Finder](https://arturayupov.github.io/wedding-guest-outfit-finder/)** — 5-question quiz, 4 curated picks. Vanilla HTML, MIT, fork-able.
+
 ## Why this exists
 
 We're in the **AI shopping era**. ChatGPT, Claude, Perplexity, Gemini are becoming the new search bar. Stores that publish their catalogs as MCP servers get drop-in distribution to every agentic shopping client. This is our experiment in being there first.
