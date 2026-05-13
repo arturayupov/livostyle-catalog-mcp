@@ -5,6 +5,7 @@
 
 [![npm version](https://img.shields.io/npm/v/livostyle-catalog-mcp.svg?color=cb3837)](https://www.npmjs.com/package/livostyle-catalog-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20155974.svg)](https://zenodo.org/records/20155974)
 [![MCP](https://img.shields.io/badge/Model_Context_Protocol-compatible-blue)](https://modelcontextprotocol.io)
 [![Glama MCP server](https://glama.ai/mcp/servers/arturayupov/livostyle-catalog-mcp/badges/score.svg)](https://glama.ai/mcp/servers/arturayupov/livostyle-catalog-mcp)
 
