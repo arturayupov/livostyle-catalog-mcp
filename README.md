@@ -44,6 +44,18 @@ Six tools that any LLM agent can call:
 | `recommend_outfit`  | Generate complete outfit suggestion matched to occasion + budget + season. |
 | `catalog_stats`     | Live catalog stats (counts, ratings, top categories). |
 
+
+## Try the Stylist — no install needed
+
+The same MCP-backed brand context, running in Claude.ai as a public shareable conversation:
+
+- 🌸 **Garden wedding guest outfit ($150 budget, June, Albuquerque)** → [view chat](https://claude.ai/share/59c161a7-ec1e-46f4-b2ef-34e480cc308f)
+- 🏖️ **5-day Cabo beach vacation capsule ($250 budget)** → [view chat](https://claude.ai/share/691359e1-dba8-42a3-b7c3-892835132562)
+- 🎁 **Birthday gift for a 24yo NYC quiet-luxury sister ($80 budget)** → [view chat](https://claude.ai/share/426c2ccc-6582-4378-8783-f2b8f47cec3b)
+- 💬 **Additional stylist demo** → [view chat](https://claude.ai/share/2daac1a5-7950-4fd6-b644-0db470d9d144)
+
+Each link opens a full conversation showing live product recommendations, prices, and links pulled from Livostyle’s catalog. Continue any of them with your own Claude account — the project knowledge transfers.
+
 ## Examples (what an agent can do)
 
 ```
