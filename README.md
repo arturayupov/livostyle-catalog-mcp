@@ -95,6 +95,8 @@ The MCP server fetches `products.json` from the GitHub mirror on first use, cach
 
 ## Related
 
+- 🎬 **[Livostyle Lookbook](https://github.com/arturayupov/livostyle-lookbook)** — 50 short 9:16 outfit videos generated from this catalog. MIT, $0 cost, ready for YouTube Shorts / TikTok / Reels.
+
 - 📊 **[Fashion-Agent-Benchmark](https://github.com/arturayupov/fashion-agent-benchmark)** — open eval framework for AI shopping agents. 200 tasks × 5 evaluators using this catalog as ground truth.
 
 ## License
