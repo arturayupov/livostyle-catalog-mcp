@@ -1,0 +1,36 @@
+{
+  "name": "livostyle-catalog-mcp",
+  "version": "0.1.0",
+  "description": "MCP server giving AI agents (Claude Desktop, Cursor, Cline, Cowork) live access to Livostyle.com — a 2,766-SKU US women's fashion catalog with reviews, variants, taxonomy, and pricing. Drop-in shopping context for any agent.",
+  "type": "module",
+  "bin": {
+    "livostyle-catalog-mcp": "./dist/index.js"
+  },
+  "main": "./dist/index.js",
+  "files": ["dist/**/*", "README.md", "LICENSE"],
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "prepare": "npm run build"
+  },
+  "keywords": ["mcp", "model-context-protocol", "claude", "anthropic", "fashion", "shopping", "e-commerce", "shopify", "livostyle", "ai-agent", "agentic-commerce", "cursor", "cline", "cowork"],
+  "author": "Arcada LLC (d/b/a Livostyle) <info@arcada.store> (https://livostyle.com)",
+  "license": "MIT",
+  "homepage": "https://github.com/arturayupov/livostyle-catalog-mcp",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturayupov/livostyle-catalog-mcp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arturayupov/livostyle-catalog-mcp/issues"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.5.0"
+  }
+}
