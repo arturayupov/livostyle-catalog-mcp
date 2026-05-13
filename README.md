@@ -3,7 +3,7 @@
 > **MCP server** giving any AI agent (Claude Desktop · Cursor · Cline · Cowork) live access to **2,766+ women's fashion products** from [Livostyle.com](https://livostyle.com).
 > Drop-in shopping context for shopping agents, outfit recommenders, fashion chatbots.
 
-[![npm version](https://img.shields.io/npm/v/livostyle-catalog-mcp.svg)](https://www.npmjs.com/package/livostyle-catalog-mcp)
+[![npm version](https://img.shields.io/npm/v/livostyle-catalog-mcp.svg?color=cb3837)](https://www.npmjs.com/package/livostyle-catalog-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![MCP](https://img.shields.io/badge/Model_Context_Protocol-compatible-blue)](https://modelcontextprotocol.io)
 
