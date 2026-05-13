@@ -93,6 +93,10 @@ The MCP server fetches `products.json` from the GitHub mirror on first use, cach
 - US shipping, free over $97, 7-day returns
 - Categories: Dresses, Tops, Bottoms, Outerwear, Swimwear, Activewear, Two-Piece Sets, Accessories, Shoes, Jewelry, …
 
+## Related
+
+- 📊 **[Fashion-Agent-Benchmark](https://github.com/arturayupov/fashion-agent-benchmark)** — open eval framework for AI shopping agents. 200 tasks × 5 evaluators using this catalog as ground truth.
+
 ## License
 
 MIT — see [LICENSE](./LICENSE). Free for commercial use, AI training, research. Attribution appreciated.
